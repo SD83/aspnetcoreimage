@@ -1,0 +1,11 @@
+/app/bin/Debug/netcoreapp2.0/aspnetcoreimage.deps.json
+/app/bin/Debug/netcoreapp2.0/aspnetcoreimage.runtimeconfig.json
+/app/bin/Debug/netcoreapp2.0/aspnetcoreimage.runtimeconfig.dev.json
+/app/bin/Debug/netcoreapp2.0/aspnetcoreimage.dll
+/app/bin/Debug/netcoreapp2.0/aspnetcoreimage.pdb
+/app/obj/Debug/netcoreapp2.0/aspnetcoreimage.csprojAssemblyReference.cache
+/app/obj/Debug/netcoreapp2.0/aspnetcoreimage.csproj.CoreCompileInputs.cache
+/app/obj/Debug/netcoreapp2.0/aspnetcoreimage.AssemblyInfoInputs.cache
+/app/obj/Debug/netcoreapp2.0/aspnetcoreimage.AssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.0/aspnetcoreimage.dll
+/app/obj/Debug/netcoreapp2.0/aspnetcoreimage.pdb
